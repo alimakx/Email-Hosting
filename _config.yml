@@ -50,8 +50,10 @@ address:
   - line: Bamako, MALI
 
 # Credits content
-credits: '24h sur 24h & 7j sur 7j'
-         'Support@malitech.net'
+credits: 
+  - line: 24h sur 24h & 7j sur 7j
+  - line: Support@malitech.net
+  
 # Build settings
 markdown: kramdown
 permalink: pretty
