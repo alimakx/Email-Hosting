@@ -1,5 +1,5 @@
 ---
-layout: Obtenez votre adresse e-mail avec votre nom de domaine
+layout: default
 modal-id: 1
 date: 2014-07-18
 img: cabin.png
