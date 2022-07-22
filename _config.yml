@@ -35,7 +35,7 @@ footer:
   copyright: Malitech Logiciels
   location: Location
   social: Réseaux Sociaux
-  credits: Plus Info
+  credits: Support
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,8 +50,8 @@ address:
   - line: Bamako, MALI
 
 # Credits content
-credits: 'Hébergez votre messagerie professionnelle sur un service de messagerie sécurisé et chiffré, garantissant la confidentialité de vos informations et sans publicité.'
-
+credits: '24h sur 24h & 7j sur 7j'
+         'Support@malitech.net'
 # Build settings
 markdown: kramdown
 permalink: pretty
