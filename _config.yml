@@ -50,7 +50,7 @@ address:
   - line: Bamako, MALI
 
 # Credits content
-credits: 'Hébergez votre messagerie professionnelle sur un service de messagerie sécurisé et chiffré, garantissant la confidentialité de vos informations et sans publicité.">Start Bootstrap</a>.'
+credits: 'Hébergez votre messagerie professionnelle sur un service de messagerie sécurisé et chiffré, garantissant la confidentialité de vos informations et sans publicité.'
 
 # Build settings
 markdown: kramdown
