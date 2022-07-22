@@ -4,8 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Janvier 2022
+category: Email@votredomaine.com
+description: Obtenez des adresses e-mail avec un nom de domaine personnalisé pour tous vos employés et configurez des groupes de messagerie pour différents services, en quelques étapes simples. Des fonctionnalités telles que les alias d'e-mail et de domaine vous aident à gérer vos domaines personnalisés comme un pro.
 ---
