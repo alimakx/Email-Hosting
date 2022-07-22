@@ -50,7 +50,7 @@ address:
   - line: Bamako, MALI
 
 # Credits content
-credits: 'Email:Support@malitech.net'
+credits: 'Email: Support@malitech.net'
   
 # Build settings
 markdown: kramdown
