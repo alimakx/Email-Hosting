@@ -50,8 +50,10 @@ address:
   - line: Sotuba ACI - Bamako, MALI
 
 # Credits content
-credits: 'Email: Support@malitech.net'
-  - line: 'Phone: +223 4435 0476'
+credits: 
+
+  - line: Support@malitech.net
+  - line: +223 4435 0476
   
 # Build settings
 markdown: kramdown
