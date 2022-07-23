@@ -1,4 +1,6 @@
 # Site settings
+plugins:
+  - jekyll-seo-tag
 title: Hébergement Email + Domaine
 email: support@malitech.net
 url: http://www.ikamail.net/
