@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+alt: image-alt
+project-date: JAncvier 2022
+
+category: Support 24/7
+description: Notre service d'hébergeur d'email offre un temps de disponibilité inégalé et s'accompagne de sauvegardes automatiques pour la prévention des pertes de données et la reprise après sinistre. Si vous avez besoin d'aide, notre équipe d'assistance est disponible 24h/24 et 7j/7.
+---
