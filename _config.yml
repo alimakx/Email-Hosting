@@ -51,7 +51,7 @@ address:
 
 # Credits content
 credits: 'Email: Support@malitech.net'
-         'Phone: +223 4435 0476'
+  - line: 'Phone: +223 4435 0476'
   
 # Build settings
 markdown: kramdown
