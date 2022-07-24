@@ -10,7 +10,7 @@ skills: "Une adresse mail professionnelle qui correspond à votre domaine person
 meta_author: Malitech Logiciels
 
 # Google webmaster tools
-google_verify:
+google_verify: "google-site-verification=g_qzHx93imJytQYm9YNAbqtpL8ymIG4qAw12iFIOSSo"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
