@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "jekyll",
+gem "jekyll", ">= 3.8.5"
 
 gem 'github-pages'
 gem 'jekyll-seo-tag'
@@ -8,4 +8,3 @@ gem 'jekyll-sitemap'
 gem 'jekyll-google_search_console_verification_file'
 gem 'jekyll-titles-from-headings'
 gem 'jekyll-analytics'
-
