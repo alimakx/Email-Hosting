@@ -1,5 +1,4 @@
 # Site settings
-url: "https://www.ikamail.net" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 plugins:
@@ -7,6 +6,7 @@ plugins:
 plugins:
   - jekyll-titles-from-headings
   
+url: "https://www.ikamail.net" # the base hostname & protocol for your site 
 title: Hébergement Email + Domaine
 email: support@malitech.net
 url: http://www.ikamail.net/
