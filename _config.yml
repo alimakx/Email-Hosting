@@ -4,6 +4,9 @@ plugins:
   - jekyll-sitemap
 plugins:
   - jekyll-seo-tag
+plugins:
+  - jekyll-titles-from-headings
+  
 title: Hébergement Email + Domaine
 email: support@malitech.net
 url: http://www.ikamail.net/
