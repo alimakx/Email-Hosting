@@ -66,8 +66,8 @@ defaults:
 
 url: "https://www.ikamail.net" # the base hostname & protocol for your site
 plugins:
-  - jekyll-sitemap
+  -jekyll-sitemap
 plugins:
-  - jekyll-seo-tag
+  -jekyll-seo-tag
 plugins:
-  - jekyll-titles-from-headings
+  -jekyll-titles-from-headings
