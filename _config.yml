@@ -1,10 +1,3 @@
-plugins:
-  - jekyll-sitemap
-plugins:
-  - jekyll-seo-tag
-plugins:
-  - jekyll-titles-from-headings
-
 # Site settings 
 url: "https://www.ikamail.net" # the base hostname & protocol for your site 
 title: Hébergement Email + Domaine
@@ -70,3 +63,10 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+      
+plugins:
+  - jekyll-sitemap
+plugins:
+  - jekyll-seo-tag
+plugins:
+  - jekyll-titles-from-headings
